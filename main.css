@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto 0 auto;
+    background-color: azure;
+    font-family: "Arvo", cursive;
+}
+
+.main{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 30%;
+    margin: auto;
+    height: 100vh;
+}
+.move{
+    padding-bottom: 100px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+}
+
+.piano{
+    outline: none;
+    border: 2px solid black;
+    font-size: 10%;
+    font-family: 'Arvo', cursive;
+    line-height: 4;
+    font-weight: 900;
+    border-radius: 20%;
+    display: inline;
+    width: 6%;
+    height: 10%;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    padding-top: 10%;
+
+}
+.piano1{
+    outline: none;
+    border: 2px solid black;
+    font-size: 10%;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    border-radius: 20%;
+    color: white;
+    display: inline;
+    width: 6%;
+    height: 10%;
+    text-align: center;
+    margin: 10px;
+    background-color: black;
+    padding-top: 6%;
+
+}
